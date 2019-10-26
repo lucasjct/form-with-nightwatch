@@ -2,16 +2,16 @@
 
 Steps
 
-[x] npm init
+ 1.npm init
 
-[x] npm install chromedriver --save-dev 
+ 2.npm install chromedriver --save-dev 
 
-[x] npm install nightwatch --save-dev 
+ 3.npm install nightwatch --save-dev 
 
-[x] create file nightwatch.conf.json (configuration: https://nightwatchjs.org/gettingstarted/configuration/)
+ 4.create file nightwatch.conf.json (configuration: https://nightwatchjs.org/gettingstarted/configuration/)
 
-[x] create folder 'tests' and file 'my-test.js' into 'tests'
+ 5.create folder 'tests' and file 'my-test.js' into 'tests'
 
-[X] writing test
+ 6.writing test
 
-[x] run 'npm test' or npm test -- --tag. use tag if have two files of test in folde 'tests'. The tag is defined in 'my-test.js'.
+ 7.run 'npm test' or npm test -- --tag. use tag if have two files of test in folde 'tests'. The tag is defined in 'my-test.js'.
