@@ -1,6 +1,6 @@
 # form-with-nightwatch
 
-Steeps
+Steps
 
 [x] npm init
 [x] npm install chromedriver --save-dev 
