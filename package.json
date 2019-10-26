@@ -1,0 +1,28 @@
+{
+  "name": "form-with-nightwatch",
+  "version": "1.0.0",
+  "description": "test form",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasjct/form-with-nightwatch.git"
+  },
+  "keywords": [
+    "node",
+    "nightwatch",
+    "automation"
+  ],
+  "author": "lucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasjct/form-with-nightwatch/issues"
+  },
+  "homepage": "https://github.com/lucasjct/form-with-nightwatch#readme",
+  "devDependencies": {
+    "chromedriver": "^77.0.0",
+    "nightwatch": "^1.2.4"
+  }
+}
