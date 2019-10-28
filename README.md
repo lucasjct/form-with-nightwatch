@@ -14,4 +14,4 @@ Steps
 
  6.writing test
 
- 7.run 'npm test' or npm test -- --tag. use tag if have two files of test in folde 'tests'. The tag is defined in 'my-test.js'.
+ 7.run 'npm test' or npm test -- --tag. use tag if have two files of test in folder 'tests'. The tag is defined in 'my-test.js'.
