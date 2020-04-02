@@ -1,4 +1,4 @@
-# form-with-nightwatch  
+# Form With Nightwatch  
   
 ## Steps
 
@@ -16,5 +16,3 @@
 
  7. run `'npm test'` or `npm test -- --tag`. Tag if have two files of test in folder 'tests'. 
    The tag is defined in 'my-test.js'.
-
-
